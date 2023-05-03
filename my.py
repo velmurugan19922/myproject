@@ -1,4 +1,4 @@
 # create simple module for add
-a = 40
+a = 50
 b = 20
 print (a + b)
